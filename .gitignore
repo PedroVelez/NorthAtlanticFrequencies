@@ -1,0 +1,11 @@
+*.asv
+*.nc
+log/*
+images/*
+Data/report*
+Data/*.mat
+Data/*.nc
+.AppleDouble
+.AppleDouble/*
+.DS_Store
+UHAwaii/
